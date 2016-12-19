@@ -1,3 +1,0 @@
-[submodule "gluster-kubernetes"]
-	path = gluster-kubernetes
-	url = git@github.com:ravishivt/gluster-kubernetes.git
