@@ -19,7 +19,6 @@ bootstrap_os: ubuntu
 #nat_iface: enp0s3
 public_iface: ens160
 nat_iface: ens160
-proxy_enable: false
 #
 #
 ## Kubernetes Parameters:
